@@ -7,19 +7,33 @@ import (
 )
 
 func PopulateTvShows() {
+	var tvShows []TvShow
 	for showTitle, episodateId := range includedShowsEpisodateIds {
-		log.Printf("Starting to populate %s\n", showTitle)
-		log.Println(episodateId)
+		log.Printf("Populating %s\n...", showTitle)
 		err, show := fetchEpisodateDataByShowId(episodateId)
 		if err != nil {
 			log.Fatalln(err)
 		}
-		//fmt.Printf("%+v\n", show)
-		//log.Println(show)
-		file, _ := json.MarshalIndent(show, "", " ")
 
-		_ = ioutil.WriteFile("test.json", file, 0644)
-
-		break
+		tvShows = append(tvShows, *show)
 	}
+
+	err := writeShowsToFile(tvShows)
+	if err != nil {
+		log.Fatalln(err)
+	}
+}
+
+func writeShowsToFile(shows []TvShow) error{
+	file, err := json.MarshalIndent(shows, "", " ")
+	if err != nil {
+		return err
+	}
+
+	err = ioutil.WriteFile("shows_data.json", file, 0644)
+	if err != nil {
+		return err
+	}
+
+	return nil
 }
