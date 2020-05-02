@@ -14,3 +14,18 @@ var includedShowsEpisodateIds = map[string]uint{
 	"Torchwood": 6910,
 	"Young Sheldon": 56967,
 }
+
+var AllShows = []string{
+	"The Big Bang Theory",
+	"Frasier",
+	"Friends",
+	"How I Met Your Mother",
+	"Doctor Who",
+	"Two and A Half Men",
+	"3rd Rock from the Sun",
+	"Modern Family",
+	"Seinfeld",
+	"The Office",
+	"Torchwood",
+	"Young Sheldon",
+}

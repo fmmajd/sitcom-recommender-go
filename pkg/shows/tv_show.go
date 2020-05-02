@@ -13,6 +13,10 @@ type TvShow struct {
 }
 
 func (s TvShow) dataFile() string {
+	return dataFilePathByTitle(s.Name)
+}
+
+func dataFilePathByTitle(title string) string {
 	wd, _ := os.Getwd()
-	return wd+"/data/shows/"+s.Name+".json"
+	return wd+"/data/shows/"+title+".json"
 }

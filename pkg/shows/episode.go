@@ -38,13 +38,16 @@ func (e *Episode) UnmarshalJSON(b []byte) error {
 	}
 
 	season, exists = data["season"].(float64)
+	if !exists {
+		season, exists = data["Season"].(float64)
+	}
 	if exists {
 		e.Season = uint(season)
 	}
 
 	title, exists = data["name"].(string)
 	if !exists {
-		title, exists = data["name"].(string)
+		title, exists = data["Title"].(string)
 	}
 	if exists {
 		e.Title = title
