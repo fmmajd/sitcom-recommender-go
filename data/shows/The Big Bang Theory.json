@@ -1,0 +1,1406 @@
+{
+ "Name": "The Big Bang Theory",
+ "Description": "Leonard and Sheldon are brilliant physicists - geniuses in the laboratory, but socially challenged everywhere else. Enter beautiful, street-smart neighbor, Penny, who aims to teach them a thing or two about life. Despite their on-again, off-again relationship in the past, Leonard believes he's found true love with Penny. Even Sheldon has found a female companion, entering into a \"Relationship Agreement\" with neurobiologist Amy Farrah Fowler. In their free time, Leonard and Sheldon continue to enjoy frequent trips to the comic book store and fantasy role-playing games with their ever-expanding universe of friends, including fellow scientists Koothrappali, Wolowitz and Wolowitz's adorable microbiologist wife, Bernadette.",
+ "Status": "Ended",
+ "Runtime": 30,
+ "Genres": [
+  "Comedy"
+ ],
+ "Episodes": [
+  {
+   "EpisodeNo": 1,
+   "Season": 1,
+   "Title": "Pilot"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 1,
+   "Title": "The Big Bran Hypothesis"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 1,
+   "Title": "The Fuzzy Boots Corollary"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 1,
+   "Title": "The Luminous Fish Effect"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 1,
+   "Title": "The Hamburger Postulate"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 1,
+   "Title": "The Middle-Earth Paradigm"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 1,
+   "Title": "The Dumpling Paradox"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 1,
+   "Title": "The Grasshopper Experiment"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 1,
+   "Title": "The Cooper-Hofstadter Polarization"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 1,
+   "Title": "The Loobenfeld Decay"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 1,
+   "Title": "The Pancake Batter Anomaly"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 1,
+   "Title": "The Jerusalem Duality"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 1,
+   "Title": "The Bat Jar Conjecture"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 1,
+   "Title": "The Nerdvana Annihilation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 1,
+   "Title": "The Pork Chop Indeterminacy"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 1,
+   "Title": "The Peanut Reaction"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 1,
+   "Title": "The Tangerine Factor"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 2,
+   "Title": "The Bad Fish Paradigm"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 2,
+   "Title": "The Codpiece Topology"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 2,
+   "Title": "The Barbarian Sublimation"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 2,
+   "Title": "The Griffin Equivalency"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 2,
+   "Title": "The Euclid Alternative"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 2,
+   "Title": "The Cooper-Nowitzki Theorem"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 2,
+   "Title": "The Panty Piñata Polarization"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 2,
+   "Title": "The Lizard-Spock Expansion"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 2,
+   "Title": "The White Asparagus Triangulation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 2,
+   "Title": "The Vartabedian Conundrum"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 2,
+   "Title": "The Bath Item Gift Hypothesis"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 2,
+   "Title": "The Killer Robot Instability"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 2,
+   "Title": "The Friendship Algorithm"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 2,
+   "Title": "The Financial Permeability"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 2,
+   "Title": "The Maternal Capacitance"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 2,
+   "Title": "The Cushion Saturation"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 2,
+   "Title": "The Terminator Decoupling"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 2,
+   "Title": "The Work Song Nanocluster"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 2,
+   "Title": "The Dead Hooker Juxtaposition"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 2,
+   "Title": "The Hofstadter Isotope"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 2,
+   "Title": "The Vegas Renormalization"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 2,
+   "Title": "The Classified Materials Turbulence"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 2,
+   "Title": "The Monopolar Expedition"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 3,
+   "Title": "The Electric Can Opener Fluctuation"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 3,
+   "Title": "The Jiminy Conjecture"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 3,
+   "Title": "The Gothowitz Deviation"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 3,
+   "Title": "The Pirate Solution"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 3,
+   "Title": "The Creepy Candy Coating Corollary"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 3,
+   "Title": "The Cornhusker Vortex"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 3,
+   "Title": "The Guitarist Amplification"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 3,
+   "Title": "The Adhesive Duck Deficiency"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 3,
+   "Title": "The Vengeance Formulation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 3,
+   "Title": "The Gorilla Experiment"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 3,
+   "Title": "The Maternal Congruence"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 3,
+   "Title": "The Psychic Vortex"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 3,
+   "Title": "The Bozeman Reaction"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 3,
+   "Title": "The Einstein Approximation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 3,
+   "Title": "The Large Hadron Collision"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 3,
+   "Title": "The Excelsior Acquisition"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 3,
+   "Title": "The Precious Fragmentation"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 3,
+   "Title": "The Pants Alternative"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 3,
+   "Title": "The Wheaton Recurrence"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 3,
+   "Title": "The Spaghetti Catalyst"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 3,
+   "Title": "The Plimpton Stimulation"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 3,
+   "Title": "The Staircase Implementation"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 3,
+   "Title": "The Lunar Excitation"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 4,
+   "Title": "The Robotic Manipulation"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 4,
+   "Title": "The Cruciferous Vegetable Amplification"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 4,
+   "Title": "The Zazzy Substitution"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 4,
+   "Title": "The Hot Troll Deviation"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 4,
+   "Title": "The Desperation Emanation"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 4,
+   "Title": "The Irish Pub Formulation"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 4,
+   "Title": "The Apology Insufficiency"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 4,
+   "Title": "The 21-Second Excitation"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 4,
+   "Title": "The Boyfriend Complexity"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 4,
+   "Title": "The Alien Parasite Hypothesis"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 4,
+   "Title": "The Justice League Recombination"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 4,
+   "Title": "The Bus Pants Utilization"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 4,
+   "Title": "The Love Car Displacement"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 4,
+   "Title": "The Thespian Catalyst"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 4,
+   "Title": "The Benefactor Factor"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 4,
+   "Title": "The Cohabitation Formulation"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 4,
+   "Title": "The Toast Derivation"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 4,
+   "Title": "The Prestidigitation Approximation"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 4,
+   "Title": "The Zarnecki Incursion"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 4,
+   "Title": "The Herb Garden Germination"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 4,
+   "Title": "The Agreement Dissection"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 4,
+   "Title": "The Wildebeest Implementation"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 4,
+   "Title": "The Engagement Reaction"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 4,
+   "Title": "The Roommate Transmogrification"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 5,
+   "Title": "The Skank Reflex Analysis"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 5,
+   "Title": "The Infestation Hypothesis"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 5,
+   "Title": "The Pulled Groin Extrapolation"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 5,
+   "Title": "The Wiggly Finger Catalyst"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 5,
+   "Title": "The Russian Rocket Reaction"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 5,
+   "Title": "The Rhinitis Revelation"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 5,
+   "Title": "The Good Guy Fluctuation"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 5,
+   "Title": "The Isolation Permutation"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 5,
+   "Title": "The Ornithophobia Diffusion"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 5,
+   "Title": "The Flaming Spittoon Acquisition"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 5,
+   "Title": "The Speckerman Recurrence"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 5,
+   "Title": "The Shiny Trinket Maneuver"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 5,
+   "Title": "The Recombination Hypothesis"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 5,
+   "Title": "The Beta Test Initiation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 5,
+   "Title": "The Friendship Contraction"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 5,
+   "Title": "The Vacation Solution"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 5,
+   "Title": "The Rothman Disintegration"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 5,
+   "Title": "The Werewolf Transformation"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 5,
+   "Title": "The Weekend Vortex"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 5,
+   "Title": "The Transporter Malfunction"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 5,
+   "Title": "The Hawking Excitation"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 5,
+   "Title": "The Stag Convergence"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 5,
+   "Title": "The Launch Acceleration"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 5,
+   "Title": "The Countdown Reflection"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 6,
+   "Title": "The Date Night Variable"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 6,
+   "Title": "The Decoupling Fluctuation"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 6,
+   "Title": "The Higgs Boson Observation"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 6,
+   "Title": "The Re-Entry Minimization"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 6,
+   "Title": "The Holographic Excitation"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 6,
+   "Title": "The Extract Obliteration"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 6,
+   "Title": "The Habitation Configuration"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 6,
+   "Title": "The 43 Peculiarity"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 6,
+   "Title": "The Parking Spot Escalation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 6,
+   "Title": "The Fish Guts Displacement"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 6,
+   "Title": "The Santa Simulation"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 6,
+   "Title": "The Egg Salad Equivalency"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 6,
+   "Title": "The Bakersfield Expedition"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 6,
+   "Title": "The Cooper/Kripke Inversion"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 6,
+   "Title": "The Spoiler Alert Segmentation"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 6,
+   "Title": "The Tangible Affection Proof"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 6,
+   "Title": "The Monster Isolation"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 6,
+   "Title": "The Contractual Obligation Implementation"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 6,
+   "Title": "The Closet Reconfiguration"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 6,
+   "Title": "The Tenure Turbulence"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 6,
+   "Title": "The Closure Alternative"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 6,
+   "Title": "The Proton Resurgence"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 6,
+   "Title": "The Love Spell Potential"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 6,
+   "Title": "The Bon Voyage Reaction"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 7,
+   "Title": "The Hofstadter Insufficiency"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 7,
+   "Title": "The Deception Verification"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 7,
+   "Title": "The Scavenger Vortex"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 7,
+   "Title": "The Raiders Minimization"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 7,
+   "Title": "The Workplace Proximity"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 7,
+   "Title": "The Romance Resonance"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 7,
+   "Title": "The Proton Displacement"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 7,
+   "Title": "The Itchy Brain Simulation"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 7,
+   "Title": "The Thanksgiving Decoupling"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 7,
+   "Title": "The Discovery Dissipation"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 7,
+   "Title": "The Cooper Extraction"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 7,
+   "Title": "The Hesitation Ramification"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 7,
+   "Title": "The Occupation Recalibration"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 7,
+   "Title": "The Convention Conundrum"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 7,
+   "Title": "The Locomotive Manipulation"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 7,
+   "Title": "The Table Polarization"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 7,
+   "Title": "The Friendship Turbulence"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 7,
+   "Title": "The Mommy Observation"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 7,
+   "Title": "The Indecision Amalgamation"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 7,
+   "Title": "The Relationship Diremption"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 7,
+   "Title": "The Anything Can Happen Recurrence"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 7,
+   "Title": "The Proton Transmogrification"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 7,
+   "Title": "The Gorilla Dissolution"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 7,
+   "Title": "The Status Quo Combustion"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 8,
+   "Title": "The Locomotion Interruption"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 8,
+   "Title": "The Junior Professor Solution"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 8,
+   "Title": "The First Pitch Insufficiency"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 8,
+   "Title": "The Hook-Up Reverberation"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 8,
+   "Title": "The Focus Attentuation"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 8,
+   "Title": "The Expedition Approximation"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 8,
+   "Title": "The Misinterpretation Agitation"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 8,
+   "Title": "The Prom Equivalency"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 8,
+   "Title": "The Septum Deviation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 8,
+   "Title": "The Champagne Reflection"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 8,
+   "Title": "The Clean Room Infiltration"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 8,
+   "Title": "The Space Probe Disintegration"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 8,
+   "Title": "The Anxiety Optimization"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 8,
+   "Title": "The Troll Manifestation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 8,
+   "Title": "The Comic Book Store Regeneration"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 8,
+   "Title": "The Intimacy Acceleration"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 8,
+   "Title": "The Colonization Application"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 8,
+   "Title": "The Leftover Thermalization"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 8,
+   "Title": "The Skywalker Incursion"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 8,
+   "Title": "The Fortification Implementation"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 8,
+   "Title": "The Communication Deterioration"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 8,
+   "Title": "The Graduation Transmission"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 8,
+   "Title": "The Maternal Combustion"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 8,
+   "Title": "The Commitment Determination"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 9,
+   "Title": "The Matrimonial Momentum"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 9,
+   "Title": "The Separation Oscillation"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 9,
+   "Title": "The Bachelor Party Corrosion"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 9,
+   "Title": "The 2003 Approximation"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 9,
+   "Title": "The Perspiration Implementation"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 9,
+   "Title": "The Helium Insufficiency"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 9,
+   "Title": "The Spock Resonance"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 9,
+   "Title": "The Mystery Date Observation"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 9,
+   "Title": "The Platonic Permutation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 9,
+   "Title": "The Earworm Reverberation"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 9,
+   "Title": "The Opening Night Excitation"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 9,
+   "Title": "The Sales Call Sublimation"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 9,
+   "Title": "The Empathy Optimization"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 9,
+   "Title": "The Meemaw Materialization"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 9,
+   "Title": "The Valentino Submergence"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 9,
+   "Title": "The Positive Negative Reaction"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 9,
+   "Title": "The Celebration Experimentation"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 9,
+   "Title": "The Application Deterioration"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 9,
+   "Title": "The Solder Excursion Diversion"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 9,
+   "Title": "The Big Bear Precipitation"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 9,
+   "Title": "The Viewing Party Combustion"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 9,
+   "Title": "The Fermentation Bifurcation"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 9,
+   "Title": "The Line Substitution Solution"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 9,
+   "Title": "The Convergence Convergence"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 10,
+   "Title": "The Conjugal Conjecture"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 10,
+   "Title": "The Military Miniaturization"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 10,
+   "Title": "The Dependence Transcendence"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 10,
+   "Title": "The Cohabitation Experimentation"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 10,
+   "Title": "The Hot Tub Contamination"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 10,
+   "Title": "The Fetal Kick Catalyst"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 10,
+   "Title": "The Veracity Elasticity"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 10,
+   "Title": "The Brain Bowl Incubation"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 10,
+   "Title": "The Geology Elevation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 10,
+   "Title": "The Property Division Collision"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 10,
+   "Title": "The Birthday Synchronicity"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 10,
+   "Title": "The Holiday Summation"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 10,
+   "Title": "The Romance Recalibration"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 10,
+   "Title": "The Emotion Detection Automation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 10,
+   "Title": "The Locomotion Reverberation"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 10,
+   "Title": "The Allowance Evaporation"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 10,
+   "Title": "The Comic-Con Conundrum"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 10,
+   "Title": "The Escape Hatch Identification"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 10,
+   "Title": "The Collaboration Fluctuation"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 10,
+   "Title": "The Recollection Dissipation"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 10,
+   "Title": "The Separation Agitation"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 10,
+   "Title": "The Cognition Regeneration"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 10,
+   "Title": "The Gyroscopic Collapse"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 10,
+   "Title": "The Long Distance Dissonance"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 11,
+   "Title": "The Proposal Proposal"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 11,
+   "Title": "The Retraction Reaction"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 11,
+   "Title": "The Relaxation Integration"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 11,
+   "Title": "The Explosion Implosion"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 11,
+   "Title": "The Collaboration Contamination"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 11,
+   "Title": "The Proton Regeneration"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 11,
+   "Title": "The Geology Methodology"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 11,
+   "Title": "The Tesla Recoil"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 11,
+   "Title": "The Bitcoin Entanglement"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 11,
+   "Title": "The Confidence Erosion"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 11,
+   "Title": "The Celebration Reverberation"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 11,
+   "Title": "The Matrimonial Metric"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 11,
+   "Title": "The Solo Oscillation"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 11,
+   "Title": "The Separation Triangulation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 11,
+   "Title": "The Novelization Correlation"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 11,
+   "Title": "The Neonatal Nomenclature"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 11,
+   "Title": "The Athenaeum Allocation"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 11,
+   "Title": "The Gates Excitation"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 11,
+   "Title": "The Tenant Disassociation"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 11,
+   "Title": "The Reclusive Potential"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 11,
+   "Title": "The Comet Polarization"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 11,
+   "Title": "The Monetary Insufficiency"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 11,
+   "Title": "The Sibling Realignment"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 11,
+   "Title": "The Bow Tie Asymmetry"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 12,
+   "Title": "The Conjugal Configuration"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 12,
+   "Title": "The Wedding Gift Wormhole"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 12,
+   "Title": "The Procreation Calculation"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 12,
+   "Title": "The Tam Turbulence"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 12,
+   "Title": "The Planetarium Collision"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 12,
+   "Title": "The Imitation Perturbation"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 12,
+   "Title": "The Grant Allocation Derivation"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 12,
+   "Title": "The Consummation Deviation"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 12,
+   "Title": "The Citation Negation"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 12,
+   "Title": "The VCR Illumination"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 12,
+   "Title": "The Paintball Scattering"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 12,
+   "Title": "The Propagation Proposition"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 12,
+   "Title": "The Confirmation Polarization"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 12,
+   "Title": "The Meteorite Manifestation"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 12,
+   "Title": "The Donation Oscillation"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 12,
+   "Title": "The D \u0026 D Vortex"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 12,
+   "Title": "The Conference Valuation"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 12,
+   "Title": "The Laureate Accumulation"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 12,
+   "Title": "The Inspiration Deprivation"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 12,
+   "Title": "The Decision Reverberation"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 12,
+   "Title": "The Plagiarism Schism"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 12,
+   "Title": "The Maternal Conclusion"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 12,
+   "Title": "The Change Constant"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 12,
+   "Title": "The Stockholm Syndrome"
+  }
+ ]
+}

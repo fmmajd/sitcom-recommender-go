@@ -1,0 +1,217 @@
+{
+ "Name": "Torchwood",
+ "Description": "Captain Jack Harkness is a man from the 51st century trapped in the past who leads the last remnants of the Torchwood Institute, a top secret British agency outside the government whose job it is to investigate alien goings on in the world, act in mankind's best interest, and, if needed, be the Earth's last line of defense.",
+ "Status": "Ended",
+ "Runtime": 60,
+ "Genres": [
+  "Drama",
+  "Science-Fiction"
+ ],
+ "Episodes": [
+  {
+   "EpisodeNo": 1,
+   "Season": 1,
+   "Title": "Everything Changes"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 1,
+   "Title": "Day One"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 1,
+   "Title": "Ghost Machine"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 1,
+   "Title": "Cyberwoman"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 1,
+   "Title": "Small Worlds"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 1,
+   "Title": "Countrycide"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 1,
+   "Title": "Greeks Bearing Gifts"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 1,
+   "Title": "They Keep Killing Suzie"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 1,
+   "Title": "Random Shoes"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 1,
+   "Title": "Out of Time"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 1,
+   "Title": "Combat"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 1,
+   "Title": "Captain Jack Harkness"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 1,
+   "Title": "End of Days"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 2,
+   "Title": "Kiss Kiss, Bang Bang"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 2,
+   "Title": "Sleeper"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 2,
+   "Title": "To the Last Man"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 2,
+   "Title": "Meat"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 2,
+   "Title": "Adam"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 2,
+   "Title": "Reset"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 2,
+   "Title": "Dead Man Walking"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 2,
+   "Title": "A Day in the Death"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 2,
+   "Title": "Something Borrowed"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 2,
+   "Title": "From Out of the Rain"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 2,
+   "Title": "Adrift"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 2,
+   "Title": "Fragments"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 2,
+   "Title": "Exit Wounds"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 3,
+   "Title": "Day One"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 3,
+   "Title": "Day Two"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 3,
+   "Title": "Day Three"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 3,
+   "Title": "Day Four"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 3,
+   "Title": "Day Five"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 4,
+   "Title": "The New World"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 4,
+   "Title": "Rendition"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 4,
+   "Title": "Dead of Night"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 4,
+   "Title": "Escape to L.A."
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 4,
+   "Title": "The Categories of Life"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 4,
+   "Title": "The Middle Men"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 4,
+   "Title": "Immortal Sins"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 4,
+   "Title": "End of the Road"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 4,
+   "Title": "The Gathering"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 4,
+   "Title": "The Blood Line"
+  }
+ ]
+}

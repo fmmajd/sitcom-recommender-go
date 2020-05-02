@@ -2,10 +2,15 @@ package main
 
 import (
 	"fmt"
-	"github.com/fmmajd/sitcom-recommender-go/pkg/shows"
 )
 
 func main() {
 	fmt.Println("Hello World!")
-	shows.PopulateTvShows()
+
+	//shows.PopulateTvShows()
+
+	fmt.Print("Enter text: ")
+	var input string
+	fmt.Scanln(&input)
+	fmt.Print(input)
 }

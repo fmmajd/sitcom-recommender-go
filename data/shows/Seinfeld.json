@@ -1,0 +1,911 @@
+{
+ "Name": "Seinfeld",
+ "Description": "\u003cb\u003eSeinfeld\u003c/b\u003e is the story of a fictionalized version of stand-up comedian Jerry Seinfeld, his life in New York City and his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions. Often described as \"a show about nothing,\" Seinfeld mines the humor in life's mundane situations like waiting in line, searching for a lost item, or the trials and tribulations of dating.",
+ "Status": "Ended",
+ "Runtime": 30,
+ "Genres": [
+  "Comedy"
+ ],
+ "Episodes": [
+  {
+   "EpisodeNo": 1,
+   "Season": 1,
+   "Title": "Good News, Bad News"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 1,
+   "Title": "The Stakeout"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 1,
+   "Title": "The Robbery"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 1,
+   "Title": "Male Unbonding"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 1,
+   "Title": "The Stock Tip"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 2,
+   "Title": "The Ex-Girlfriend"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 2,
+   "Title": "The Pony Remark"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 2,
+   "Title": "The Jacket"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 2,
+   "Title": "The Phone Message"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 2,
+   "Title": "The Apartment"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 2,
+   "Title": "The Statue"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 2,
+   "Title": "The Revenge"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 2,
+   "Title": "The Heart Attack"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 2,
+   "Title": "The Deal"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 2,
+   "Title": "The Baby Shower"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 2,
+   "Title": "The Chinese Restaurant"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 2,
+   "Title": "The Busboy"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 3,
+   "Title": "The Note"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 3,
+   "Title": "The Truth"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 3,
+   "Title": "The Pen"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 3,
+   "Title": "The Dog"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 3,
+   "Title": "The Library"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 3,
+   "Title": "The Parking Garage"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 3,
+   "Title": "The Cafe"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 3,
+   "Title": "The Tape"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 3,
+   "Title": "The Nose Job"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 3,
+   "Title": "The Stranded"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 3,
+   "Title": "The Alternate Side"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 3,
+   "Title": "The Red Dot"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 3,
+   "Title": "The Subway"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 3,
+   "Title": "The Pez Dispenser"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 3,
+   "Title": "The Suicide"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 3,
+   "Title": "The Fix-Up"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 3,
+   "Title": "The Boyfriend (1)"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 3,
+   "Title": "The Boyfriend (2)"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 3,
+   "Title": "The Limo"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 3,
+   "Title": "The Good Samaritan"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 3,
+   "Title": "The Letter"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 3,
+   "Title": "The Parking Space"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 3,
+   "Title": "The Keys"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 4,
+   "Title": "The Trip (1)"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 4,
+   "Title": "The Trip (2)"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 4,
+   "Title": "The Pitch"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 4,
+   "Title": "The Ticket"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 4,
+   "Title": "The Wallet (1)"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 4,
+   "Title": "The Watch (2)"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 4,
+   "Title": "The Bubble Boy"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 4,
+   "Title": "The Cheever Letters"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 4,
+   "Title": "The Opera"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 4,
+   "Title": "The Virgin"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 4,
+   "Title": "The Contest"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 4,
+   "Title": "The Airport"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 4,
+   "Title": "The Pick"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 4,
+   "Title": "The Movie"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 4,
+   "Title": "The Visa"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 4,
+   "Title": "The Shoes"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 4,
+   "Title": "The Outing"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 4,
+   "Title": "The Old Man"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 4,
+   "Title": "The Implant"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 4,
+   "Title": "The Junior Mint"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 4,
+   "Title": "The Smelly Car"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 4,
+   "Title": "The Handicap Spot"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 4,
+   "Title": "The Pilot (1)"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 4,
+   "Title": "The Pilot (2)"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 5,
+   "Title": "The Mango"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 5,
+   "Title": "The Puffy Shirt"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 5,
+   "Title": "The Glasses"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 5,
+   "Title": "The Sniffing Accountant"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 5,
+   "Title": "The Bris"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 5,
+   "Title": "The Lip Reader"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 5,
+   "Title": "The Non-Fat Yogurt"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 5,
+   "Title": "The Barber"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 5,
+   "Title": "The Masseuse"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 5,
+   "Title": "The Cigar Store Indian"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 5,
+   "Title": "The Conversion"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 5,
+   "Title": "The Stall"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 5,
+   "Title": "The Dinner Party"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 5,
+   "Title": "The Marine Biologist"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 5,
+   "Title": "The Pie"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 5,
+   "Title": "The Stand-In"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 5,
+   "Title": "The Wife"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 5,
+   "Title": "The Raincoats (1)"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 5,
+   "Title": "The Raincoats (2)"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 5,
+   "Title": "The Fire"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 5,
+   "Title": "The Hamptons"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 5,
+   "Title": "The Opposite"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 6,
+   "Title": "The Chaperone"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 6,
+   "Title": "The Big Salad"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 6,
+   "Title": "The Pledge Drive"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 6,
+   "Title": "The Chinese Woman"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 6,
+   "Title": "The Couch"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 6,
+   "Title": "The Gymnast"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 6,
+   "Title": "The Soup"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 6,
+   "Title": "The Mom \u0026 Pop Store"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 6,
+   "Title": "The Secretary"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 6,
+   "Title": "The Race"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 6,
+   "Title": "The Switch"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 6,
+   "Title": "The Label Maker"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 6,
+   "Title": "The Scofflaw"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 6,
+   "Title": "Highlights of a Hundred (1)"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 6,
+   "Title": "Highlights of a Hundred (2)"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 6,
+   "Title": "The Beard"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 6,
+   "Title": "The Kiss Hello"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 6,
+   "Title": "The Doorman"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 6,
+   "Title": "The Jimmy"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 6,
+   "Title": "The Doodle"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 6,
+   "Title": "The Fusilli Jerry"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 6,
+   "Title": "The Diplomat's Club"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 6,
+   "Title": "The Face Painter"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 6,
+   "Title": "The Understudy"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 7,
+   "Title": "The Engagement"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 7,
+   "Title": "The Postponement"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 7,
+   "Title": "The Maestro"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 7,
+   "Title": "The Wink"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 7,
+   "Title": "The Hot Tub"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 7,
+   "Title": "The Soup Nazi"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 7,
+   "Title": "The Secret Code"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 7,
+   "Title": "The Pool Guy"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 7,
+   "Title": "The Sponge"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 7,
+   "Title": "The Gum"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 7,
+   "Title": "The Rye"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 7,
+   "Title": "The Caddy"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 7,
+   "Title": "The Seven"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 7,
+   "Title": "The Cadillac (1)"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 7,
+   "Title": "The Cadillac (2)"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 7,
+   "Title": "The Shower Head"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 7,
+   "Title": "The Doll"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 7,
+   "Title": "The Friars Club"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 7,
+   "Title": "The Wig Master"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 7,
+   "Title": "The Calzone"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 7,
+   "Title": "The Bottle Deposit (1)"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 7,
+   "Title": "The Bottle Deposit (2)"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 7,
+   "Title": "The Wait Out"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 7,
+   "Title": "The Invitations"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 8,
+   "Title": "The Foundation"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 8,
+   "Title": "The Soul Mate"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 8,
+   "Title": "The Bizarro Jerry"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 8,
+   "Title": "The Little Kicks"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 8,
+   "Title": "The Package"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 8,
+   "Title": "The Fatigues"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 8,
+   "Title": "The Checks"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 8,
+   "Title": "The Chicken Roaster"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 8,
+   "Title": "The Abstinence"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 8,
+   "Title": "The Andrea Doria"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 8,
+   "Title": "The Little Jerry"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 8,
+   "Title": "The Money"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 8,
+   "Title": "The Comeback"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 8,
+   "Title": "The Van Buren Boys"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 8,
+   "Title": "The Susie"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 8,
+   "Title": "The Pothole"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 8,
+   "Title": "The English Patient"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 8,
+   "Title": "The Nap"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 8,
+   "Title": "The Yada Yada"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 8,
+   "Title": "The Millennium"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 8,
+   "Title": "The Muffin Tops"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 8,
+   "Title": "The Summer of George"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 9,
+   "Title": "The Butter Shave"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 9,
+   "Title": "The Voice"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 9,
+   "Title": "The Serenity Now"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 9,
+   "Title": "The Blood"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 9,
+   "Title": "The Junk Mail"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 9,
+   "Title": "The Merv Griffin Show"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 9,
+   "Title": "The Slicer"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 9,
+   "Title": "The Betrayal"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 9,
+   "Title": "The Apology"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 9,
+   "Title": "The Strike"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 9,
+   "Title": "The Dealership"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 9,
+   "Title": "The Reverse Peephole"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 9,
+   "Title": "The Cartoon"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 9,
+   "Title": "The Strongbox"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 9,
+   "Title": "The Wizard"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 9,
+   "Title": "The Burning"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 9,
+   "Title": "The Bookstore"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 9,
+   "Title": "The Frogger"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 9,
+   "Title": "The Maid"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 9,
+   "Title": "The Puerto Rican Day"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 9,
+   "Title": "The Clip Show (1) (a.k.a. The Chronicle (1))"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 9,
+   "Title": "The Clip Show (2) (a.k.a. The Chronicle (2))"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 9,
+   "Title": "The Finale (1)"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 9,
+   "Title": "The Finale (2)"
+  }
+ ]
+}

@@ -1,0 +1,1336 @@
+{
+ "Name": "Frasier",
+ "Description": "\u003cb\u003eFraiser\u003c/b\u003e is a half-hour comedy series set in Seattle, which chronicles the lives of an eloquently pompous radio show host Dr. Frasier Crane, his brazen radio producer Roz and his competitive, high-brow brother Niles.",
+ "Status": "Ended",
+ "Runtime": 30,
+ "Genres": [
+  "Comedy"
+ ],
+ "Episodes": [
+  {
+   "EpisodeNo": 1,
+   "Season": 1,
+   "Title": "The Good Son"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 1,
+   "Title": "Space Quest"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 1,
+   "Title": "Dinner at Eight"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 1,
+   "Title": "I Hate Frasier Crane"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 1,
+   "Title": "Here's Looking at You"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 1,
+   "Title": "The Crucible"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 1,
+   "Title": "Call Me Irresponsible"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 1,
+   "Title": "Beloved Infidel"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 1,
+   "Title": "Selling Out"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 1,
+   "Title": "Oops"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 1,
+   "Title": "Death Becomes Him"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 1,
+   "Title": "Miracle on Third or Fourth Street"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 1,
+   "Title": "Guess Who's Coming to Breakfast"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 1,
+   "Title": "Can't Buy Me Love"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 1,
+   "Title": "You Can't Tell a Crook by His Cover"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 1,
+   "Title": "The Show Where Lilith Comes Back"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 1,
+   "Title": "A Midwinter Night's Dream"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 1,
+   "Title": "And the Whimper is..."
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 1,
+   "Title": "Give Him the Chair!"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 1,
+   "Title": "Fortysomething"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 1,
+   "Title": "Travels with Martin"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 1,
+   "Title": "Author, Author"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 1,
+   "Title": "Frasier Crane's Day Off"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 1,
+   "Title": "My Coffee with Niles"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 2,
+   "Title": "Slow Tango in South Seattle"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 2,
+   "Title": "The Unkindest Cut of All"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 2,
+   "Title": "The Matchmaker"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 2,
+   "Title": "Flour Child"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 2,
+   "Title": "Duke's, We Hardly Knew Ye"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 2,
+   "Title": "The Botched Language of Cranes"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 2,
+   "Title": "The Candidate"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 2,
+   "Title": "Adventures in Paradise (1)"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 2,
+   "Title": "Adventures in Paradise (2)"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 2,
+   "Title": "Burying a Grudge"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 2,
+   "Title": "Seat of Power"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 2,
+   "Title": "Roz in the Doghouse"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 2,
+   "Title": "Retirement is Murder"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 2,
+   "Title": "Fool Me Once, Shame on You, Fool Me Twice..."
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 2,
+   "Title": "You Scratch My Book..."
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 2,
+   "Title": "The Show Where Sam Shows Up"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 2,
+   "Title": "Daphne's Room"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 2,
+   "Title": "The Club"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 2,
+   "Title": "Someone to Watch Over Me"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 2,
+   "Title": "Breaking the Ice"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 2,
+   "Title": "An Affair to Forget"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 2,
+   "Title": "Agents in America, Part III"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 2,
+   "Title": "The Innkeepers"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 2,
+   "Title": "Dark Victory"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 3,
+   "Title": "She's the Boss"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 3,
+   "Title": "Shrink Rap"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 3,
+   "Title": "Martin Does It His Way"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 3,
+   "Title": "Leapin' Lizards"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 3,
+   "Title": "Kisses Sweeter Than Wine"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 3,
+   "Title": "Sleeping with the Enemy (1)"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 3,
+   "Title": "The Adventures of Bad Boy and Dirty Girl (2)"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 3,
+   "Title": "The Last Time I Saw Maris"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 3,
+   "Title": "Frasier Grinch"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 3,
+   "Title": "It's Hard to Say Goodbye If You Won't Leave"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 3,
+   "Title": "The Friend"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 3,
+   "Title": "Come Lie with Me"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 3,
+   "Title": "Moon Dance"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 3,
+   "Title": "The Show Where Diane Comes Back"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 3,
+   "Title": "A Word to the Wiseguy"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 3,
+   "Title": "Look Before You Leap"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 3,
+   "Title": "High Crane Drifter"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 3,
+   "Title": "Chess Pains"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 3,
+   "Title": "Crane vs. Crane"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 3,
+   "Title": "Police Story"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 3,
+   "Title": "Where There's Smoke There's Fired"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 3,
+   "Title": "Frasier Loves Roz"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 3,
+   "Title": "The Focus Group"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 3,
+   "Title": "You Can Go Home Again"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 4,
+   "Title": "The Two Mrs. Cranes"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 4,
+   "Title": "Love Bites Dog"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 4,
+   "Title": "The Impossible Dream"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 4,
+   "Title": "A Crane's Critique"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 4,
+   "Title": "Head Game"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 4,
+   "Title": "Mixed Doubles"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 4,
+   "Title": "A Lilith Thanksgiving"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 4,
+   "Title": "Our Father Whose Art Ain't Heaven"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 4,
+   "Title": "Dad Loves Sherry, the Boys Just Whine"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 4,
+   "Title": "Liar! Liar!"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 4,
+   "Title": "Three Days of the Condo"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 4,
+   "Title": "Death and the Dog"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 4,
+   "Title": "Four for the Seesaw"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 4,
+   "Title": "To Kill a Talking Bird"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 4,
+   "Title": "Roz's Krantz \u0026 Gouldenstein Are Dead"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 4,
+   "Title": "The Unnatural"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 4,
+   "Title": "Roz's Turn"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 4,
+   "Title": "Ham Radio"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 4,
+   "Title": "Three Dates and a Breakup (1)"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 4,
+   "Title": "Three Dates and a Breakup (2)"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 4,
+   "Title": "Daphne Hates Sherry"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 4,
+   "Title": "Are You Being Served?"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 4,
+   "Title": "Ask Me No Questions"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 4,
+   "Title": "Odd Man Out"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 5,
+   "Title": "Frasier's Imaginary Friend"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 5,
+   "Title": "The Gift Horse"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 5,
+   "Title": "Halloween (1)"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 5,
+   "Title": "The Kid (2)"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 5,
+   "Title": "The 1000th Show"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 5,
+   "Title": "Voyage of the Damned"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 5,
+   "Title": "My Fair Frasier"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 5,
+   "Title": "Desperately Seeking Closure"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 5,
+   "Title": "Perspectives on Christmas"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 5,
+   "Title": "Where Every Bloke Knows Your Name"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 5,
+   "Title": "Ain't Nobody's Business If I Do"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 5,
+   "Title": "The Zoo Story"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 5,
+   "Title": "The Maris Counselor"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 5,
+   "Title": "The Ski Lodge"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 5,
+   "Title": "Room Service"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 5,
+   "Title": "Beware of Greeks"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 5,
+   "Title": "The Perfect Guy"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 5,
+   "Title": "Bad Dog"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 5,
+   "Title": "Frasier Gotta Have It"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 5,
+   "Title": "First Date"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 5,
+   "Title": "Roz and the Schnoz"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 5,
+   "Title": "The Life of the Party"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 5,
+   "Title": "Party, Party"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 5,
+   "Title": "Sweet Dreams"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 6,
+   "Title": "Good Grief"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 6,
+   "Title": "Frasier's Curse"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 6,
+   "Title": "Dial M for Martin"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 6,
+   "Title": "Hot Ticket"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 6,
+   "Title": "First, Do No Harm"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 6,
+   "Title": "Secret Admirer"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 6,
+   "Title": "How to Bury a Millionaire"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 6,
+   "Title": "The Seal Who Came to Dinner"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 6,
+   "Title": "Roz, a Loan"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 6,
+   "Title": "Merry Christmas, Mrs. Moskowitz"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 6,
+   "Title": "Good Samaritan"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 6,
+   "Title": "Our Parents, Ourselves"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 6,
+   "Title": "The Show Where Woody Shows Up"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 6,
+   "Title": "Three Valentines"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 6,
+   "Title": "To Tell the Truth"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 6,
+   "Title": "Decoys"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 6,
+   "Title": "Dinner Party"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 6,
+   "Title": "Taps at the Montana"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 6,
+   "Title": "IQ"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 6,
+   "Title": "Dr. Nora"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 6,
+   "Title": "When a Man Loves Two Women"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 6,
+   "Title": "Visions of Daphne"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 6,
+   "Title": "Shutout in Seattle (1)"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 6,
+   "Title": "Shutout in Seattle (2)"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 7,
+   "Title": "Momma Mia"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 7,
+   "Title": "Father of the Bride"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 7,
+   "Title": "Radio Wars"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 7,
+   "Title": "Everyone's a Critic"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 7,
+   "Title": "The Dog That Rocks the Cradle"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 7,
+   "Title": "Rivals"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 7,
+   "Title": "A Tsar is Born"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 7,
+   "Title": "The Late Dr. Crane"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 7,
+   "Title": "The Apparent Trap"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 7,
+   "Title": "Back Talk (1)"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 7,
+   "Title": "The Fight Before Christmas (2)"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 7,
+   "Title": "RDWRER"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 7,
+   "Title": "They're Playing Our Song"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 7,
+   "Title": "Big Crane on Campus"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 7,
+   "Title": "Out With Dad"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 7,
+   "Title": "Something About Dr. Mary"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 7,
+   "Title": "Whine Club"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 7,
+   "Title": "Hot Pursuit"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 7,
+   "Title": "Morning Becomes Entertainment"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 7,
+   "Title": "To Thine Old Self Be True"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 7,
+   "Title": "Three Faces of Frasier"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 7,
+   "Title": "Dark Side of the Moon"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 7,
+   "Title": "Something Borrowed, Someone Blue (1)"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 7,
+   "Title": "Something Borrowed, Someone Blue (2)"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 8,
+   "Title": "And the Dish Ran Away with the Spoon (1)"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 8,
+   "Title": "And the Dish Ran Away with the Spoon (2)"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 8,
+   "Title": "The Bad Son"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 8,
+   "Title": "The Great Crane Robbery"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 8,
+   "Title": "Taking Liberties"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 8,
+   "Title": "Legal Tender Love and Care"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 8,
+   "Title": "The New Friend"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 8,
+   "Title": "Mary Christmas"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 8,
+   "Title": "Frasier's Edge"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 8,
+   "Title": "Cranes Unplugged"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 8,
+   "Title": "Motor Skills"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 8,
+   "Title": "The Show Must Go Off"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 8,
+   "Title": "Sliding Frasiers"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 8,
+   "Title": "Hungry Heart"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 8,
+   "Title": "Hooping Cranes"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 8,
+   "Title": "Docu.Drama"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 8,
+   "Title": "It Takes Two to Tangle"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 8,
+   "Title": "Forgotten But Not Gone"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 8,
+   "Title": "Daphne Returns"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 8,
+   "Title": "The Wizard and Roz"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 8,
+   "Title": "Semi-Decent Proposal (1)"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 8,
+   "Title": "A Passing Fancy (2)"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 8,
+   "Title": "A Day in May"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 8,
+   "Title": "Cranes Go Caribbean"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 9,
+   "Title": "Don Juan in Hell (1)"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 9,
+   "Title": "Don Juan in Hell (2)"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 9,
+   "Title": "The First Temptation of Daphne"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 9,
+   "Title": "The Return of Martin Crane"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 9,
+   "Title": "Love Stinks"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 9,
+   "Title": "Room Full of Heroes"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 9,
+   "Title": "Bla-Z-Boy"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 9,
+   "Title": "The Two Hundredth"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 9,
+   "Title": "Sharing Kirby"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 9,
+   "Title": "Junior Agent"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 9,
+   "Title": "Bully for Martin"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 9,
+   "Title": "Mother Load (1)"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 9,
+   "Title": "Mother Load (2)"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 9,
+   "Title": "Juvenilia"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 9,
+   "Title": "The Proposal"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 9,
+   "Title": "Wheels of Fortune"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 9,
+   "Title": "Three Blind Dates"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 9,
+   "Title": "War of the Words"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 9,
+   "Title": "Deathtrap"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 9,
+   "Title": "The Love You Fake"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 9,
+   "Title": "Cheerful Goodbyes"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 9,
+   "Title": "Frasier Has Spokane"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 9,
+   "Title": "The Guilt Trippers"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 9,
+   "Title": "Moons Over Seattle"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 10,
+   "Title": "The Ring Cycle"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 10,
+   "Title": "Enemy at the Gate"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 10,
+   "Title": "Proxy Prexy"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 10,
+   "Title": "Kissing Cousin"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 10,
+   "Title": "Tales from the Crypt"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 10,
+   "Title": "Star Mitzvah"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 10,
+   "Title": "Bristle While You Work (1)"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 10,
+   "Title": "Rooms with a View (2)"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 10,
+   "Title": "Don't Go Breaking My Heart (3)"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 10,
+   "Title": "We Two Kings"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 10,
+   "Title": "Door Jam"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 10,
+   "Title": "The Harassed"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 10,
+   "Title": "Lilith Needs a Favor"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 10,
+   "Title": "Daphne Does Dinner"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 10,
+   "Title": "Trophy Girlfriend"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 10,
+   "Title": "Fraternal Schwinns"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 10,
+   "Title": "Kenny on the Couch"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 10,
+   "Title": "Roe to Perdition"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 10,
+   "Title": "Some Assembly Required"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 10,
+   "Title": "Farewell, Nervosa"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 10,
+   "Title": "The Devil and Dr. Phil"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 10,
+   "Title": "Fathers and Sons"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 10,
+   "Title": "Analyzed Kiss"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 10,
+   "Title": "A New Position for Roz"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 11,
+   "Title": "No Sex Please, We're Skittish"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 11,
+   "Title": "A Man, a Plan and a Gal: Julia"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 11,
+   "Title": "The Doctor is Out"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 11,
+   "Title": "The Babysitter"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 11,
+   "Title": "The Placeholder"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 11,
+   "Title": "I'm Listening"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 11,
+   "Title": "Maris Returns (1)"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 11,
+   "Title": "Murder Most Maris (2)"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 11,
+   "Title": "Guns N' Neuroses"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 11,
+   "Title": "Seabee Jeebies"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 11,
+   "Title": "High Holidays"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 11,
+   "Title": "Frasier-Lite"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 11,
+   "Title": "The Ann Who Came to Dinner"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 11,
+   "Title": "Freudian Sleep"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 11,
+   "Title": "Caught in the Act"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 11,
+   "Title": "Boo!"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 11,
+   "Title": "Coots and Ladders"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 11,
+   "Title": "Match Game"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 11,
+   "Title": "Miss Right Now"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 11,
+   "Title": "And Frasier Makes Three"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 11,
+   "Title": "Detour"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 11,
+   "Title": "Crock Tales"
+  },
+  {
+   "EpisodeNo": 25,
+   "Season": 11,
+   "Title": "Goodnight, Seattle (2)"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 11,
+   "Title": "Goodnight, Seattle (1)"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 11,
+   "Title": "Goodnight, Seattle (2)"
+  }
+ ]
+}

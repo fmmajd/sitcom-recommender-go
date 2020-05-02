@@ -1,0 +1,708 @@
+{
+ "Name": "3rd Rock from the Sun",
+ "Description": "Sent to Earth to investigate civilization, an alien high commander and his quirky crew -- military officer Sally, information expert Tommy and transmitter Harry -- assume human identities to blend in. Although they possess superior intelligence, their naïveté about the human condition turns everyday events into farcical fun.",
+ "Status": "Ended",
+ "Runtime": 30,
+ "Genres": [
+  "Comedy",
+  "Family",
+  "Science-Fiction"
+ ],
+ "Episodes": [
+  {
+   "EpisodeNo": 1,
+   "Season": 1,
+   "Title": "Brains and Eggs"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 1,
+   "Title": "Post Nasal Dick"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 1,
+   "Title": "Dick's First Birthday"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 1,
+   "Title": "Dick is from Mars, Sally is from Venus"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 1,
+   "Title": "Dick, Smoker"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 1,
+   "Title": "Green-Eyed Dick"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 1,
+   "Title": "Lonely Dick"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 1,
+   "Title": "Body \u0026 Soul \u0026 Dick"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 1,
+   "Title": "Ab-Dick-ted"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 1,
+   "Title": "Truth or Dick"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 1,
+   "Title": "The Art of Dick"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 1,
+   "Title": "Frozen Dick"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 1,
+   "Title": "Angry Dick"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 1,
+   "Title": "The Dicks They Are A-Changin'"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 1,
+   "Title": "I Enjoy Being a Dick"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 1,
+   "Title": "Dick Like Me"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 1,
+   "Title": "Assault with a Deadly Dick"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 1,
+   "Title": "Father Knows Dick"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 1,
+   "Title": "Selfish Dick"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 1,
+   "Title": "See Dick Run: Part 1"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 2,
+   "Title": "See Dick Continue to Run: Part 2"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 2,
+   "Title": "See Dick Continue to Run, Continued: Part 3"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 2,
+   "Title": "Hotel Dick"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 2,
+   "Title": "Big Angry Virgin from Outer Space"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 2,
+   "Title": "Much Ado About Dick"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 2,
+   "Title": "Dick the Vote"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 2,
+   "Title": "Fourth and Dick"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 2,
+   "Title": "World's Greatest Dick"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 2,
+   "Title": "My Mother the Alien"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 2,
+   "Title": "Gobble, Gobble, Dick, Dick"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 2,
+   "Title": "Dick Jokes"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 2,
+   "Title": "Jolly Old St. Dick"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 2,
+   "Title": "Proud Dick"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 2,
+   "Title": "Romeo \u0026 Juliet \u0026 Dick"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 2,
+   "Title": "Guilty as Dick"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 2,
+   "Title": "Dick on One Knee"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 2,
+   "Title": "Same Old Song and Dick"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 2,
+   "Title": "I Brake for Dick"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 2,
+   "Title": "Dick Behaving Badly"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 2,
+   "Title": "Dickmalion"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 2,
+   "Title": "Sensitive Dick"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 2,
+   "Title": "Will Work for Dick"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 2,
+   "Title": "Fifteen Minutes of Dick"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 2,
+   "Title": "Dick and the Single Girl"
+  },
+  {
+   "EpisodeNo": 25,
+   "Season": 2,
+   "Title": "A Nightmare on Dick Street: Part 1"
+  },
+  {
+   "EpisodeNo": 26,
+   "Season": 2,
+   "Title": "A Nightmare on Dick Street: Part 2"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 3,
+   "Title": "Fun with Dick and Janet: Part 1"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 3,
+   "Title": "Fun with Dick and Janet: Part 2"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 3,
+   "Title": "Tricky Dick"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 3,
+   "Title": "Dick-In-Law"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 3,
+   "Title": "Scaredy Dick"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 3,
+   "Title": "Moby Dick"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 3,
+   "Title": "Eleven Angry Men and One Dick"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 3,
+   "Title": "A Friend in Dick"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 3,
+   "Title": "Seven Deadly Clips"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 3,
+   "Title": "Tom, Dick and Mary"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 3,
+   "Title": "Jailhouse Dick"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 3,
+   "Title": "Dick on a Roll"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 3,
+   "Title": "The Great Dickdater"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 3,
+   "Title": "36! 24! 36! Dick!: Part 1"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 3,
+   "Title": "36! 24! 36! Dick!: Part 2"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 3,
+   "Title": "Pickles and Ice Cream"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 3,
+   "Title": "Auto EuroDicka"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 3,
+   "Title": "Stuck with Dick"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 3,
+   "Title": "Portrait of Tommy as an Old Man"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 3,
+   "Title": "My Daddy's Little Girl"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 3,
+   "Title": "The Physics of Being Dick"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 3,
+   "Title": "Just Your Average Dick: Part 1"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 3,
+   "Title": "Dick and the Other Guy: Part 2"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 3,
+   "Title": "Sally and Don's First Kiss"
+  },
+  {
+   "EpisodeNo": 25,
+   "Season": 3,
+   "Title": "When Aliens Camp"
+  },
+  {
+   "EpisodeNo": 26,
+   "Season": 3,
+   "Title": "The Tooth Harry"
+  },
+  {
+   "EpisodeNo": 27,
+   "Season": 3,
+   "Title": "Eat, Drink, Mary: Part 1"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 4,
+   "Title": "Dr. Solomon's Traveling Alien Show: Part 2"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 4,
+   "Title": "Power Mad Dick"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 4,
+   "Title": "Feelin' Albright"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 4,
+   "Title": "Collect Call for Dick"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 4,
+   "Title": "What's Love Got to Do, Got to Do with Dick?"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 4,
+   "Title": "I Am Dick Pentameter!"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 4,
+   "Title": "D3: Judgement Day"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 4,
+   "Title": "Indecent Dick"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 4,
+   "Title": "Happy New Dick!"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 4,
+   "Title": "Two-Faced Dick"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 4,
+   "Title": "Dick Solomon of the Indiana Solomons"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 4,
+   "Title": "Dick and Taxes"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 4,
+   "Title": "Sally Forth"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 4,
+   "Title": "Paranoid Dick"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 4,
+   "Title": "The House That Dick Built"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 4,
+   "Title": "Superstitious Dick"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 4,
+   "Title": "Y2dicK"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 4,
+   "Title": "Dick the Mouth Solomon"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 4,
+   "Title": "Citizen Solomon"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 4,
+   "Title": "Alien Hunter"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 4,
+   "Title": "Dick vs. Strudwick"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 4,
+   "Title": "Near Dick Experience"
+  },
+  {
+   "EpisodeNo": 23,
+   "Season": 4,
+   "Title": "Dick's Big Giant Headache: Part 1"
+  },
+  {
+   "EpisodeNo": 24,
+   "Season": 4,
+   "Title": "Dick's Big Giant Headache: Part 2"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 5,
+   "Title": "Episode I: the Baby Menace: Part 3"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 5,
+   "Title": "Dick for Tat"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 5,
+   "Title": "The Fifth Solomon"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 5,
+   "Title": "Dial M for Dick"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 5,
+   "Title": "Dick and Tuck"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 5,
+   "Title": "Dick, Who's Coming to Dinner"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 5,
+   "Title": "Sex and the Sally"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 5,
+   "Title": "Charitable Dick"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 5,
+   "Title": "The Loud Solomon Family: A Dickumentary"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 5,
+   "Title": "Gwen, Larry, Dick and Mary"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 5,
+   "Title": "Dick Puts the Id in Cupid"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 5,
+   "Title": "The Big Giant Head Returns"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 5,
+   "Title": "Rutherford Beauty"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 5,
+   "Title": "This Little Dick Goes to Market"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 5,
+   "Title": "Youth is Wasted on the Dick"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 5,
+   "Title": "Dick Strikes Out"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 5,
+   "Title": "Shall We Dick?"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 5,
+   "Title": "Dick and Harry Fall Down a Hole"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 5,
+   "Title": "Frankie Goes to Rutherford"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 5,
+   "Title": "Dick Solomon's Day Off"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 5,
+   "Title": "The Big Giant Head Returns Again: Part 1"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 5,
+   "Title": "The Big Giant Head Returns Again: Part 2"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 6,
+   "Title": "Les Liaisons Dickgereuses"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 6,
+   "Title": "Fear and Loathing in Rutherford"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 6,
+   "Title": "Indickscretion"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 6,
+   "Title": "Dick'll Take Manhattan: Part 1"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 6,
+   "Title": "Dick'll Take Manhattan: Part 2"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 6,
+   "Title": "Why Dickie Can't Teach"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 6,
+   "Title": "B.D.O.C."
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 6,
+   "Title": "Red, White \u0026 Dick"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 6,
+   "Title": "Dick Digs"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 6,
+   "Title": "There's No Business Like Dick Business"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 6,
+   "Title": "A Dick Replacement"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 6,
+   "Title": "Dick's Ark"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 6,
+   "Title": "You Don't Know Dick"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 6,
+   "Title": "My Mother, My Dick"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 6,
+   "Title": "Glengarry Glen Dick"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 6,
+   "Title": "Dick Soup for the Soul"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 6,
+   "Title": "Mary Loves Scoochie: Part 1"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 6,
+   "Title": "Mary Loves Scoochie: Part 2"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 6,
+   "Title": "The Thing That Wouldn't Die: Part 1"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 6,
+   "Title": "The Thing That Wouldn't Die: Part 2"
+  }
+ ]
+}

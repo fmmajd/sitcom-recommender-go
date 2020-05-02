@@ -1,0 +1,337 @@
+{
+ "Name": "Young Sheldon",
+ "Description": "For 9-year-old Sheldon Cooper, it isn't easy growing up in East Texas. Being a once-in-a-generation mind capable of advanced mathematics and science isn't always helpful in a land where church and football are king. And while the vulnerable, gifted and somewhat naïve Sheldon deals with the world, his very normal family must find a way to deal with him. His father, George, is struggling to find his way as a high school football coach and as father to a boy he doesn't understand. Sheldon's mother, Mary, fiercely protects and nurtures her son in a town where he just doesn't fit in. Sheldon's older brother, Georgie, does the best he can in high school, but it's tough to be cool when you're in the same classes with your odd 9-year-old brother. Finally, there's Sheldon's twin sister, Missy, who sometimes resents all the attention Sheldon gets, but also remains the one person who can reliably tell Sheldon the truth. For 10 years on \u003ci\u003eThe Big Bang Theory\u003c/i\u003e, audiences have come to know the iconic, eccentric and extraordinary Sheldon Cooper. This single-camera, half-hour comedy gives us the chance to meet him in childhood, as he embarks on his innocent, awkward and hopeful journey toward the man he will become.",
+ "Status": "Running",
+ "Runtime": 30,
+ "Genres": [
+  "Comedy",
+  "Family"
+ ],
+ "Episodes": [
+  {
+   "EpisodeNo": 1,
+   "Season": 1,
+   "Title": "Pilot"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 1,
+   "Title": "Rockets, Communists, and the Dewey Decimal System"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 1,
+   "Title": "Poker, Faith, and Eggs"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 1,
+   "Title": "A Therapist, a Comic Book, and a Breakfast Sausage"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 1,
+   "Title": "A Solar Calculator, a Game Ball, and a Cheerleader's Bosom"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 1,
+   "Title": "A Patch, a Modem, and a Zantac®"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 1,
+   "Title": "A Brisket, Voodoo, and Cannonball Run"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 1,
+   "Title": "Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 1,
+   "Title": "Spock, Kirk, and Testicular Hernia"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 1,
+   "Title": "An Eagle Feather, a String Bean, and an Eskimo"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 1,
+   "Title": "Demons, Sunday School, and Prime Numbers"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 1,
+   "Title": "A Computer, a Plastic Pony, and a Case of Beer"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 1,
+   "Title": "A Sneeze, Detention and Sissy Spacek"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 1,
+   "Title": "Potato Salad, a Broomstick, and Dad's Whiskey"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 1,
+   "Title": "Dolomite, Apple Slices, and a Mystery Woman"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 1,
+   "Title": "Killer Asteroids, Oklahoma, and a Frizzy Hair Machine"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 1,
+   "Title": "Jiu-Jitsu, Bubble Wrap, and Yoo-hoo"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 1,
+   "Title": "A Mother, a Child and a Blue Man's Backside"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 1,
+   "Title": "Gluons, Guacamole, and the Color Purple"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 1,
+   "Title": "A Dog, a Squirrel, and a Fish Named Fish"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 1,
+   "Title": "Summer Sausage, a Pocket Poncho, and Tony Danza"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 1,
+   "Title": "Vanilla Ice Cream, Gentleman Callers, and a Dinette Set"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 2,
+   "Title": "A High-Pitched Buzz and Training Wheels"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 2,
+   "Title": "A Rival Prodigy and Sir Isaac Neutron"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 2,
+   "Title": "A Crisis of Faith and Octopus Aliens"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 2,
+   "Title": "A Financial Secret and Fish Sauce"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 2,
+   "Title": "A Research Study and Czechoslovakian Wedding Pastries"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 2,
+   "Title": "Seven Deadly Sins and a Small Carl Sagan"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 2,
+   "Title": "Carbon Dating and a Stuffed Raccoon"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 2,
+   "Title": "An 8-Bit Princess and a Flat Tire Genius"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 2,
+   "Title": "Family Dynamics and a Red Fiero"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 2,
+   "Title": "A Stunted Childhood and a Can of Fancy Mixed Nuts"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 2,
+   "Title": "A Race of Superhumans and a Letter to Alf"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 2,
+   "Title": "A Tummy Ache and a Whale of a Metaphor"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 2,
+   "Title": "A Nuclear Reactor and a Boy Called Lovey"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 2,
+   "Title": "David, Goliath, and a Yoo-hoo from the Back"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 2,
+   "Title": "A Math Emergency and Perky Palms"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 2,
+   "Title": "A Loaf of Bread and a Grand Old Flag"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 2,
+   "Title": "Albert Einstein and the Story of Another Mary"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 2,
+   "Title": "A Perfect Score and a Bunsen Burner Marshmallow"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 2,
+   "Title": "A Political Campaign and a Candy Land Cheater"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 2,
+   "Title": "A Proposal and a Popsicle Stick Cross"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 2,
+   "Title": "A Broken Heart and a Crock Monster"
+  },
+  {
+   "EpisodeNo": 22,
+   "Season": 2,
+   "Title": "A Swedish Science Thing and the Equation for Toast"
+  },
+  {
+   "EpisodeNo": 1,
+   "Season": 3,
+   "Title": "Quirky Eggheads and Texas Snow Globes"
+  },
+  {
+   "EpisodeNo": 2,
+   "Season": 3,
+   "Title": "A Broom Closet and Satan's Monopoly Board"
+  },
+  {
+   "EpisodeNo": 3,
+   "Season": 3,
+   "Title": "An Entrepreneurialist and a Swat on the Bottom"
+  },
+  {
+   "EpisodeNo": 4,
+   "Season": 3,
+   "Title": "Hobbitses, Physicses and a Ball with Zip"
+  },
+  {
+   "EpisodeNo": 5,
+   "Season": 3,
+   "Title": "A Pineapple and the Bosom of Male Friendship"
+  },
+  {
+   "EpisodeNo": 6,
+   "Season": 3,
+   "Title": "A Parasol and a Hell of an Arm"
+  },
+  {
+   "EpisodeNo": 7,
+   "Season": 3,
+   "Title": "Pongo Pygmaeus and a Culture that Encourages Spitting"
+  },
+  {
+   "EpisodeNo": 8,
+   "Season": 3,
+   "Title": "The Sin of Greed and a Chimichanga from Chi-chi's"
+  },
+  {
+   "EpisodeNo": 9,
+   "Season": 3,
+   "Title": "A Party Invitation, Football Grapes and an Earth Chicken"
+  },
+  {
+   "EpisodeNo": 10,
+   "Season": 3,
+   "Title": "Teenager Soup and a Little Ball of Fib"
+  },
+  {
+   "EpisodeNo": 11,
+   "Season": 3,
+   "Title": "A Live Chicken, a Fried Chicken and Holy Matrimony"
+  },
+  {
+   "EpisodeNo": 12,
+   "Season": 3,
+   "Title": "Body Glitter and a Mall Safety Kit"
+  },
+  {
+   "EpisodeNo": 13,
+   "Season": 3,
+   "Title": "Contracts, Rules and a Little Bit of Pig Brains"
+  },
+  {
+   "EpisodeNo": 14,
+   "Season": 3,
+   "Title": "A Slump, a Cross and Roadside Gravel"
+  },
+  {
+   "EpisodeNo": 15,
+   "Season": 3,
+   "Title": "A Boyfriend's Ex-Wife and a Good Luck Head Rub"
+  },
+  {
+   "EpisodeNo": 16,
+   "Season": 3,
+   "Title": "Pasadena"
+  },
+  {
+   "EpisodeNo": 17,
+   "Season": 3,
+   "Title": "An Academic Crime and a More Romantic Taco Bell"
+  },
+  {
+   "EpisodeNo": 18,
+   "Season": 3,
+   "Title": "A Couple Bruised Ribs and a Cereal Box Ghost Detector"
+  },
+  {
+   "EpisodeNo": 19,
+   "Season": 3,
+   "Title": "A House for Sale and Serious Woman Stuff"
+  },
+  {
+   "EpisodeNo": 20,
+   "Season": 3,
+   "Title": "A Baby Tooth and the Egyptian God of Knowledge"
+  },
+  {
+   "EpisodeNo": 21,
+   "Season": 3,
+   "Title": "A Secret Letter and a Lowly Disc of Processed Meat"
+  }
+ ]
+}
